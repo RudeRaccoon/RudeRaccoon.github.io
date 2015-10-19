@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://RudeRaccoon.github.io
+title: RudeRaccoon
+tagline: Some days
+description: My awesome new site
+paginate: 5
